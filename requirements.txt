@@ -1,0 +1,37 @@
+NeuroThreads Project Dependencies
+
+To ensure proper functionality and compatibility, the NeuroThreads project requires the following third-party libraries and their specific versions:
+
+tensorflow==2.6.0
+numpy==1.19.5
+matplotlib==3.4.3
+
+Please follow the instructions below to install these dependencies:
+
+1. Activate your project's virtual environment (if applicable).
+
+2. Install the required libraries using the following command:
+
+   pip install -r requirements.txt
+
+   This command will install the specified library versions.
+
+   Note: Make sure you have an active internet connection during the installation process.
+
+3. Once the installation is complete, you can import the libraries in your project code using the appropriate import statements.
+
+   For example:
+
+   import tensorflow as tf
+   import numpy as np
+   import matplotlib.pyplot as plt
+
+Ensure that you have the specified library versions installed in your Python environment to ensure compatibility with the NeuroThreads project.
+
+For more information on each library, including advanced usage and additional functionalities, refer to their respective documentation:
+
+- TensorFlow Documentation: https://www.tensorflow.org/api_docs
+- NumPy Documentation: https://numpy.org/doc/
+- Matplotlib Documentation: https://matplotlib.org/stable/contents.html
+
+If you encounter any issues during the installation or have further questions, please refer to the official documentation or consult the library's community forums for assistance.
