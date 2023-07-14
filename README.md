@@ -178,6 +178,6 @@ Contributions and suggestions for further improvements are welcome!
 This project is licensed under the [MIT License](LICENSE).
 
 ````
-Make sure to replace the placeholders such as ``Vpadia717`` with your actual GitHub username in the README file.
+Make sure to replace the placeholders such as ```Vpadia717``` with your actual GitHub username in the README file.
 Feel free to customize the content and structure of the README file according to your specific project requirements and preferences.```
 ````
